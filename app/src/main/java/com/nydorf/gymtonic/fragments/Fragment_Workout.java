@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.fragments;
+package com.nydorf.gymtonic.fragments;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -19,15 +19,15 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.activities.Activity_Workout_CreateEditExercise;
-import com.nydorf.gymtonicapp.activities.Activity_Workout_EditPlans;
-import com.nydorf.gymtonicapp.activities.Activity_Workout_EditRoutines;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_Workout_Exercise;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_Workout_Routine;
-import com.nydorf.gymtonicapp.recyclerview.Item_Workout_Exercise;
-import com.nydorf.gymtonicapp.recyclerview.Item_Workout_Routine;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.activities.Activity_Workout_CreateEditExercise;
+import com.nydorf.gymtonic.activities.Activity_Workout_EditPlans;
+import com.nydorf.gymtonic.activities.Activity_Workout_EditRoutines;
+import com.nydorf.gymtonic.recyclerview.Adapter_Workout_Exercise;
+import com.nydorf.gymtonic.recyclerview.Adapter_Workout_Routine;
+import com.nydorf.gymtonic.recyclerview.Item_Workout_Exercise;
+import com.nydorf.gymtonic.recyclerview.Item_Workout_Routine;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 

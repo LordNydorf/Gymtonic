@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp;
+package com.nydorf.gymtonic;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,10 +11,10 @@ import android.database.Cursor;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
-import com.nydorf.gymtonicapp.fragments.Fragment_Nutrition;
-import com.nydorf.gymtonicapp.fragments.Fragment_Workout;
-import com.nydorf.gymtonicapp.fragments.Fragment_Settings;
+import com.nydorf.gymtonic.data.DatabaseHelper;
+import com.nydorf.gymtonic.fragments.Fragment_Nutrition;
+import com.nydorf.gymtonic.fragments.Fragment_Workout;
+import com.nydorf.gymtonic.fragments.Fragment_Settings;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 

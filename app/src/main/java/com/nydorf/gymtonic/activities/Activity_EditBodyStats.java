@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.activities;
+package com.nydorf.gymtonic.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,9 +12,9 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.data.DatabaseHelper;
 
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;

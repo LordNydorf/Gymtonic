@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.activities;
+package com.nydorf.gymtonic.activities;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -18,11 +18,11 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_MealPresets;
-import com.nydorf.gymtonicapp.recyclerview.Item_MealPreset;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.data.DatabaseHelper;
+import com.nydorf.gymtonic.recyclerview.Adapter_MealPresets;
+import com.nydorf.gymtonic.recyclerview.Item_MealPreset;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.text.DecimalFormat;

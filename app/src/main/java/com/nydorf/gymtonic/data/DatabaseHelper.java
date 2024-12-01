@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.data;
+package com.nydorf.gymtonic.data;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -16,7 +16,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
      */
 
     private Context context;
-    private static final String DATABASE_NAME = "gymtonicapp.db";
+    private static final String DATABASE_NAME = "gymtonic.db";
     private static final int DATABASE_VERSION = 43;
 
     // Table foods

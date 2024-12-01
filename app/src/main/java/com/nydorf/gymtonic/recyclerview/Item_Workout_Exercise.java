@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.recyclerview;
+package com.nydorf.gymtonic.recyclerview;
 
 public class Item_Workout_Exercise {
 

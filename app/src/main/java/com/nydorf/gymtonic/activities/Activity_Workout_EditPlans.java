@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.activities;
+package com.nydorf.gymtonic.activities;
 
 import android.content.DialogInterface;
 import android.database.Cursor;
@@ -14,10 +14,10 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_Item_General_001;
-import com.nydorf.gymtonicapp.recyclerview.Item_General_001;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.data.DatabaseHelper;
+import com.nydorf.gymtonic.recyclerview.Adapter_Item_General_001;
+import com.nydorf.gymtonic.recyclerview.Item_General_001;
 
 import java.util.ArrayList;
 

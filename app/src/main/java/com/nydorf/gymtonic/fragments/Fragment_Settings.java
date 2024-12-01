@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.fragments;
+package com.nydorf.gymtonic.fragments;
 
 import android.database.Cursor;
 import android.os.Bundle;
@@ -17,8 +17,8 @@ import android.widget.Spinner;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
 
 public class Fragment_Settings extends Fragment implements AdapterView.OnItemSelectedListener {
 

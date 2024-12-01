@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.activities;
+package com.nydorf.gymtonic.activities;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -16,8 +16,8 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.data.DatabaseHelper;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;

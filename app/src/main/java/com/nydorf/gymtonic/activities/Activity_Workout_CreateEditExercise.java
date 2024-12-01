@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.activities;
+package com.nydorf.gymtonic.activities;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -15,13 +15,13 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.data.DatabaseHelper;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_Workout_Plans;
-import com.nydorf.gymtonicapp.recyclerview.Adapter_Workout_Routine;
-import com.nydorf.gymtonicapp.recyclerview.Item_Workout_Plan;
-import com.nydorf.gymtonicapp.recyclerview.Item_Workout_Routine;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.data.DatabaseHelper;
+import com.nydorf.gymtonic.recyclerview.Adapter_Workout_Plans;
+import com.nydorf.gymtonic.recyclerview.Adapter_Workout_Routine;
+import com.nydorf.gymtonic.recyclerview.Item_Workout_Plan;
+import com.nydorf.gymtonic.recyclerview.Item_Workout_Routine;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.text.DecimalFormat;

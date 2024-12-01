@@ -1,4 +1,4 @@
-package com.nydorf.gymtonicapp.fragments;
+package com.nydorf.gymtonic.fragments;
 
 import android.animation.ObjectAnimator;
 import android.content.Intent;
@@ -16,11 +16,11 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.nydorf.gymtonicapp.Activity_Main;
-import com.nydorf.gymtonicapp.R;
-import com.nydorf.gymtonicapp.activities.Activity_Calendar;
-import com.nydorf.gymtonicapp.activities.Activity_Meals_AddDailyEntry;
-import com.nydorf.gymtonicapp.activities.Activity_Meals_MealsOfDay;
+import com.nydorf.gymtonic.Activity_Main;
+import com.nydorf.gymtonic.R;
+import com.nydorf.gymtonic.activities.Activity_Calendar;
+import com.nydorf.gymtonic.activities.Activity_Meals_AddDailyEntry;
+import com.nydorf.gymtonic.activities.Activity_Meals_MealsOfDay;
 
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
